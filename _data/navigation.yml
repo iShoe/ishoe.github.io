@@ -1,14 +1,18 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "Home"
+    url: /
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /files/AishwaryaJan24Resume.pdf
+
         
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
     
   # - title: "Publications"
   #   url: /publications/
