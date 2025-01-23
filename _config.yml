@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aishwarya Naidu"
+title                    : "Aishwarya Naidu Puthotta"
 title_separator          : "-"
-name                     : &name "Aishwarya Naidu"
+name                     : &name "Aishwarya Naidu Puthotta"
 description              : &description "personal description"
 url                      : https://ishoe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "ishoe/ishoe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Aishwarya Naidu"
+  name             : "Aishwarya Naidu Puthotta"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Charlotte, NC"
+  location         : "Seattle, WA"
   # employer         : "Carnegie Mellon University"
   uri              : # URL
   email            : "paishwaryanaidu@gmail.com" 
